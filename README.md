@@ -24,27 +24,7 @@ The project uses publicly accessible WHO GLASS AMR surveillance data.
 Data source: World Health Organization — Global Antimicrobial Resistance and Use Surveillance System (GLASS).
 The dataset contains surveillance information related to antimicrobial resistance, including variables describing geographical location, pathogens, antibiotics, years, and resistance measurements.
 
-## Visualizations
+Visualization
 ## AMR Resistance by Antibiotic
 
 ![AMR Resistance by Antibiotic](figures/AMR_resistance_by_antibiotic.png)
-
-### Resistance by Antibiotic
-
-![Resistance by Antibiotic](figures/AMR_resistance_by_antibiotic.png)
-
-### Resistance by Pathogen
-
-![Resistance by Pathogen](figures/AMR_resistance_by_pathogen.png)
-
-### Resistance Trend Over Time
-
-![Resistance by Year](figures/AMR_resistance_by_year.png)
-
-### Resistance with 95% Confidence Intervals
-
-![95% Confidence Intervals](figures/AMR_resistance_95CI.png)
-
-### Pathogen-Antibiotic Heatmap
-
-![AMR Heatmap](figures/AMR_resistance_heatmap.png)
