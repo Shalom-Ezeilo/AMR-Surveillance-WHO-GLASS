@@ -25,5 +25,14 @@ Data source: World Health Organization — Global Antimicrobial Resistance and U
 The dataset contains surveillance information related to antimicrobial resistance, including variables describing geographical location, pathogens, antibiotics, years, and resistance measurements.
 
 Visualization
-![AMR Resistance by Pathogen and Antibiotic](figures/AMR_resistance_by_pathogen_antibiotic.png)
+## AMR Resistance by Antibiotic
 
+![AMR Resistance by Antibiotic](AMR_resistance_by_antibiotic.png)
+
+## AMR Resistance by Pathogen and Antibiotic
+
+![AMR Resistance by Pathogen and Antibiotic](AMR_resistance%20by%20Pathogen%20and%20Antibiotic.png)
+
+## AMR Resistance Over Time
+
+![AMR Resistance Over Time](AMR_resistance%20Over%20Time.png)
