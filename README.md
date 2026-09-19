@@ -28,3 +28,15 @@ Visualization
 ## AMR Resistance by Antibiotic
 
 ![AMR Resistance by Antibiotic](figures/AMR_resistance_by_antibiotic.png)
+
+
+## AMR Resistance by Pathogen and Antibiotic
+
+![AMR Resistance by Pathogen and Antibiotic](figures/AMR_resistance_by_pathogen_antibiotic.png)
+
+
+## AMR Resistance Over Time
+
+![AMR Resistance Over Time](figures/AMR_resistance_over_time.png)
+
+![AMR Resistance by Antibiotic](figures/AMR_resistance_by_antibiotic.png)
