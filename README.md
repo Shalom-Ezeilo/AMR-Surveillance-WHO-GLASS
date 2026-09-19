@@ -23,6 +23,23 @@ The objectives of this project are to:
 The project uses publicly accessible WHO GLASS AMR surveillance data.
 Data source: World Health Organization — Global Antimicrobial Resistance and Use Surveillance System (GLASS).
 The dataset contains surveillance information related to antimicrobial resistance, including variables describing geographical location, pathogens, antibiotics, years, and resistance measurements.
+## Results
+
+### AMR Resistance by Antibiotic
+[Table]
+
+### AMR Resistance by Pathogen
+[Table]
+
+### AMR Resistance by year
+[Table]
+
+
+### AMR Resistance by WHO Region
+[Table]
+
+### Antibiotic-Specific 95% Confidence Intervals
+[Table]
 
 Visualization
 ## AMR Resistance by Antibiotic
